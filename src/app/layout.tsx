@@ -51,7 +51,7 @@ export function AuthLayout({
             muted
             className="object-cover w-full h-full"
           >
-            <source src="/webm2.webm" />
+            <source src="https://img.stakodon.com/webm2.webm" />
           </video>
         </div>
         <div className="absolute z-10 text-xs text-gray-500 bottom-5 left-5">
